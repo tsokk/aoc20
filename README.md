@@ -11,7 +11,9 @@ that I have. Here's a list of things that I need for this purpose:
 
 * compiler: [Clang](https://releases.llvm.org/download.html)
 * debugger: [LLDB](http://lldb.llvm.org/)
-* build system: [CMake](https://cmake.org/download/)
 * version control: [Git](https://git-scm.com/downloads)
 * easy sharing between computers: [GitHub.com](https://github.com/).
 
+I spent some time studying CMake, but came to the conclusion that including it
+would add to the complications mentioned. I may add it later, if its expected
+benefits were to outweigh the costs of adding, configuring, and maintaining it.
