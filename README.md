@@ -16,4 +16,4 @@ that I have. Here's a list of things that I need for this purpose:
 
 I spent some time studying CMake, but came to the conclusion that including it
 would add to the complications mentioned. I may add it later, if its expected
-benefits were to outweigh the costs of adding, configuring, and maintaining it.
+benefits outweigh the costs of adding, configuring, and maintaining it.
